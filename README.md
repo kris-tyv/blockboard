@@ -78,6 +78,16 @@ The UI is inspired by the **Blocklabs logo and visual identity**.
 ##  Getting Started
 
 ### 1. Clone the repository
-
-```bash
 git clone https://github.com/kris-tyv/blockboard.git
+
+### 2. Navigate to the project
+cd taskflow
+
+### 3. Install dependencies
+npm install
+
+### 4. Run the development server
+npm run dev
+
+### 5. Open in browser
+http://localhost:3000
