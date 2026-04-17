@@ -91,3 +91,9 @@ npm run dev
 
 ### 5. Open in browser
 http://localhost:3000
+
+##  Author
+
+**Annjela Kristy R. Nicolas**  
+- GitHub: https://github.com/kris-tyv  
+- Email: nicolasannjela@gmail.com or akrnicolas@mymail.mapua.edu.ph
